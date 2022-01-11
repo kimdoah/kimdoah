@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning natural science but, Artificial Intellegence now on.
 - 💞️ I’m looking to collaborate on anything looks fun and effective.
 - 📫 How to reach me is secret!
+- Tomorrow my life will change a bit!
 
 <!---
 kimdoah/kimdoah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
